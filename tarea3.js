@@ -30,12 +30,12 @@ contador++;
 
 //Este es el codigo para imprimir una linea con 7 asteriscos// 
 
-/*let tamano_triangulo = parseFloat(prompt('Ingrese el numero con respecto al tamano del triangulo'));
+
 let espacio = " ";
 let contador  = 1;
 let asterisco = ' *';
 
-while ( contador <= tamano_triangulo){
+while ( contador <= 7){
     espacio = espacio + asterisco
     contador++;  
 } console.log(espacio)
